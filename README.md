@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dan Carroll
+- 👋 Hi, I’m Daniel!
 - 👀 I’m interested in Gaming and game development
 - 🌱 I’m currently learning C++, JavaScript and Python!
 - 💞️ I’m always looking to collaborate to make games and solve problems!
