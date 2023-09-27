@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dan Carroll
 - 👀 I’m interested in Gaming and game development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate to make games
-- 📫 How to reach me dont DanCarrollSp@gmail.com
+- 🌱 I’m currently learning C++, JavaScript and Python!
+- 💞️ I’m always looking to collaborate to make games and solve problems!
+- 📫 How to reach me -> DanCarrollSp@gmail.com
 
 <!---
 DanCarrollSp/DanCarrollSp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
